@@ -1,7 +1,7 @@
 -- LeetCode #1378
 -- Replace Employee ID With The Unique Identifier
 
--- Problem:
+-- Problem :
 -- Show the unique ID of each employee.
 -- If an employee does not have a unique ID,
 -- return NULL.
