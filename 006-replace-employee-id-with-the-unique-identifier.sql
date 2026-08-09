@@ -5,7 +5,7 @@
 -- Show the unique ID of each employee.
 -- If an employee does not have a unique ID,
 -- return NULL.
--- Also return the employee's name.
+-- also return the employee's name.
 
 SELECT
     eu.unique_id,
