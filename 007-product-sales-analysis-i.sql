@@ -1,7 +1,7 @@
 -- LeetCode #1068
 -- Product Sales Analysis I
 
--- Problem:
+-- Problem :
 -- Report the product name, year, and price for each sale.
 
 SELECT
